@@ -1,7 +1,8 @@
 
+<h1>Fitting Towards Ames</h1>
 
+<div class="featured-image" style="background-image:url(https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/06/dmitri-levonian/ames-houses-3-684650-suqIagJX.jpg)"></div>
 <h3>Introduction</h3>
-
 
 
 <p>Online real estate listing companies like Zillow, Trulia and Redfin each provide a home value estimator which is their estimate of how much a home is worth using their internal models. </p>
